@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8</location>
+			<title>La Nación+ (720p) [Not 24/7] 01</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8</location>
+			<title>La Nación+ (720p) [Not 24/7] 02</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8</location>
+			<title>El Trece (1080p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://inliveserver.com:1936/14056/14056/playlist.m3u8</location>
+			<title>GenTV (480p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8</location>
+			<title>IP Noticias (1080p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live-01-01-tn.vodgc.net/TN24/index.m3u8</location>
+			<title>TN Todo Noticias (1080p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8</location>
+			<title>TV Pública (TVP) (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8</location>
+			<title>Telefe Internacional (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8</location>
+			<title>Telefe Salta (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8</location>
+			<title>Telefe Rosario (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8</location>
+			<title>Telefe Córdoba (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8</location>
+			<title>Telefe Santa Fe (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8</location>
+			<title>DeporTV (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCSmh3DFxBwFurMttT60PQ1g.m3u8</location>
+			<title>DeporTV (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8</location>
+			<title>DirecTV Sports (480p) [Geo-blocked]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8</location>
+			<title>Vorterix (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8</location>
+			<title>Cine Sony (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8</location>
+			<title>Xtrema Cine Acción (268p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8</location>
+			<title>Xtrema Animal (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8</location>
+			<title>Xtrema Anime (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8</location>
+			<title>Xtrema Cine Asia (268p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8</location>
+			<title>Xtrema Cartoons (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8</location>
+			<title>Xtrema Cine Comedy (344p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8</location>
+			<title>Xtrema Cine Drama (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8</location>
+			<title>Xtrema Cine Europa (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8</location>
+			<title>Xtrema Cine Family (274p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8</location>
+			<title>Xtrema Cine Hindi (272p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8</location>
+			<title>Xtrema Cine Latino (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8</location>
+			<title>Xtrema Retro Cartoons (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8</location>
+			<title>Xtrema Retro Series (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8</location>
+			<title>Xtrema Series (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8</location>
+			<title>Xtrema Cine Suspenso (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8</location>
+			<title>Xtrema Cine Terror (270p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8</location>
+			<title>Encuentro (1080p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://magicstream.ddns.net/magicstream/stream.m3u8</location>
+			<title>Magic Kids (486p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8</location>
+			<title>Pakapaka (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8</location>
+			<title>A24 (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>http-user-agent=iPhone</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8</location>
+			<title>A24 (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8</location>
+			<title>América TV (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>http-user-agent=iPhone</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8</location>
+			<title>América TV (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://tuvideoonline.com.ar:3393/live/antena91live.m3u8</location>
+			<title>Antena 91 (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8</location>
+			<title>C5N (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8</location>
+			<title>Canal 26 (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://g2.vxral-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8</location>
+			<title>Canal de la Ciudad (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>http-user-agent=iPhone</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8</location>
+			<title>Canal de la Ciudad (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8</location>
+			<title>Canal Orbe 21 (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8</location>
+			<title>CINE.AR (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8</location>
+			<title>Ciudad Magazine (1080p) [Geo-blocked]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8</location>
+			<title>Crónica TV (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>http-user-agent=iPhone</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8</location>
+			<title>El Garage TV (480p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8</location>
+			<title>MusicTop (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8</location>
+			<title>Neo TV (432p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8</location>
+			<title>Neox TV (480p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8</location>
+			<title>NET TV (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8</location>
+			<title>NET TV (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8</location>
+			<title>PowerHD (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8</location>
+			<title>Power TV (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.arcast.com.ar/utntv/utntv/playlist.m3u8</location>
+			<title>UTN TV (480p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8</location>
+			<title>Diputados TV (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+	</extension>
+</playlist>
