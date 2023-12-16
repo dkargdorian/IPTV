@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0,La Nación+ (720p) [Not 24/7] 01
-#EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:30,La Nación+ (720p) [Not 24/7] 02
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:0,La Nación+ (720p) [Not 24/7] 01
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:0,El Trece (1080p)
 #EXTVLCOPT:network-caching=1000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -20,10 +20,6 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:0,TV Pública (TVP) (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:0 tvg-id="Telefe.ar" tvg-name="Telefe " tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="ARGENTINA",Telefe 
-http://tvpremiumhd.club/lista-gratuita/183009/tv/live.php?id=22121
-#EXTINF:0 tvg-id="Telefe.ar" tvg-name="Telefe (720)" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="ARGENTINA",Telefe (720)
-http://tvpremiumhd.club/lista-gratuita/183009/tv/live.php?id=53491
 #EXTINF:0,Telefe Internacional (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
