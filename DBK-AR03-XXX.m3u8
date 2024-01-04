@@ -1,0 +1,232 @@
+#EXTM3U
+#EXTINF:30,La Nación+ (720p) [Not 24/7] 02
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:0,La Nación+ (720p) [Not 24/7] 01
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:0,El Trece (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0,GenTV (480p)
+#EXTVLCOPT:network-caching=1000
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:0,IP Noticias (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:0,TN Todo Noticias (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:0,TV Pública (TVP) (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:0,Telefe Internacional (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
+#EXTINF:0,Telefe Salta (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+#EXTINF:0,Telefe Rosario (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+#EXTINF:0,Telefe Córdoba (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+#EXTINF:0,Telefe Santa Fe (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
+#EXTINF:0,DeporTV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:0,DeporTV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCSmh3DFxBwFurMttT60PQ1g.m3u8
+#EXTINF:0,DirecTV Sports (480p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:0,Vorterix (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+#EXTINF:0,Cine Sony (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:0,Xtrema Cine Acción (268p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:0,Xtrema Animal (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:0,Xtrema Anime (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:0,Xtrema Cine Asia (268p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:0,Xtrema Cartoons (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:0,Xtrema Cine Comedy (344p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:0,Xtrema Cine Drama (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:0,Xtrema Cine Europa (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:0,Xtrema Cine Family (274p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:0,Xtrema Cine Hindi (272p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:0,Xtrema Cine Latino (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:0,Xtrema Retro Cartoons (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:0,Xtrema Retro Series (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:0,Xtrema Series (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:0,Xtrema Cine Suspenso (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:0,Xtrema Cine Terror (270p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:0,Encuentro (1080p)
+#EXTVLCOPT:network-caching=1000
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:0,Magic Kids (486p)
+#EXTVLCOPT:network-caching=1000
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:0,Pakapaka (720p)
+#EXTVLCOPT:network-caching=1000
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:0,A24 (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT:network-caching=1000
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:0,A24 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:0,América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:0,América TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
+#EXTINF:0,Antena 91 (720p)
+#EXTVLCOPT:network-caching=1000
+https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
+#EXTINF:0,C5N (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:0,Canal 26 (720p)
+#EXTVLCOPT:network-caching=1000
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:0,Canal de la Ciudad (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT:network-caching=1000
+https://g2.vxral-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8
+#EXTINF:0,Canal de la Ciudad (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+#EXTINF:0,Canal Orbe 21 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:0,CINE.AR (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:0,Ciudad Magazine (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:0,Crónica TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT:network-caching=1000
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+#EXTINF:0,El Garage TV (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:0,MusicTop (720p)
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0,Neo TV (432p)
+#EXTVLCOPT:network-caching=1000
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:0,Neox TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:0,NET TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0,NET TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0,PowerHD (720p)
+#EXTVLCOPT:network-caching=1000
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:0,Power TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0,UTN TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.com.ar/utntv/utntv/playlist.m3u8
+#EXTINF:0,Diputados TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Interracial
+http://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Threesome
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
+http://live.adultiptv.net/asian.m3u8
