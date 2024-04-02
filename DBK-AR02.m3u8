@@ -46,7 +46,7 @@ https://ythls.onrender.com/channel/UCSmh3DFxBwFurMttT60PQ1g.m3u8
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:0,Vorterix (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:0,Cine Sony (720p)
 #EXTVLCOPT:network-caching=1000
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
