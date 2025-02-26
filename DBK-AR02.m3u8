@@ -19,13 +19,13 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:0,TV Pública (TVP) (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:0,Telefe Internacional (720p) [Not 24/7]
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:0,Telefe.ar
+#EXTVLCOPT:network-caching=1000
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+#EXTINF:0,Telefe Internacional
 #EXTVLCOPT:network-caching=1000
 https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
-#EXTINF:0,Telefe Salta (1080p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 #EXTINF:0,Telefe Rosario (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
